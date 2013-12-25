@@ -10,6 +10,7 @@ This app meke it easier to launch browser on Google Glass - you just need to say
 
 ## How to use
 Say *"OK Glass, browse the web"* on home screen, or click the corresponding menu.
+<img src="http://thorikawa.github.io/GlassBrowserLauncher/img/browse_screen.png" />
 
 ## License
 
