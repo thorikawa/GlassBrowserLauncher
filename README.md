@@ -1,9 +1,7 @@
 GlassBrowserLauncher
 ====================
 
-## Google Glass Browser Launcher
-
-### Motivation
+## Motivation
 Recently We often face the situation that wifi access point asks us to agree with ToS and click something before starting internet access. However, Google Glass's browswer is available only via "search" function - which means we are not able to launch browswer without authorized connection and we have to give up to use wifi.
 
 I also think browser is key ingredient in glassware. Accessing browser is should be easier. It allows us to explore and discuss about how to utilize web on Google Glass.
