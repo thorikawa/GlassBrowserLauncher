@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		Intent intent = new Intent(Intent.ACTION_VIEW);
-		intent.setData(Uri.parse("http://www.yahoo.com/"));
+		intent.setData(Uri.parse("http://thorikawa.github.io/GlassBrowserLauncher/index.html"));
 		intent.setClassName("com.google.glass.browser", "com.google.glass.browser.WebBrowserActivity");
 		startActivity(intent);
 	}
